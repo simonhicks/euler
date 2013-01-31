@@ -4,3 +4,10 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+letter-score	src/euler/problem_42.clj	/^(defn letter-score [ch]$/;"	f
+t	src/euler/problem_42.clj	/^(defn t [n]$/;"	f
+triangle-number?	src/euler/problem_42.clj	/^(defn triangle-number? [n]$/;"	f
+triangle-numbers	src/euler/problem_42.clj	/^(def triangle-numbers (map t (iterate inc 1)))$/;"	f
+triangle-word?	src/euler/problem_42.clj	/^(def triangle-word? (comp triangle-number? word-score))$/;"	f
+word-score	src/euler/problem_42.clj	/^(defn word-score [word]$/;"	f
+words	src/euler/problem_42.clj	/^(def words$/;"	f
